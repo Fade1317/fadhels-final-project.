@@ -16,7 +16,6 @@ We are excited to collaborate and make this project better together.
 5. **Push Changes**
 
 6. **Submit a Pull Request**  
-Go to the original repository and open a Pull Request with a description of your changes.
 
 
 
